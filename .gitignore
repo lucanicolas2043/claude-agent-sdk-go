@@ -5,3 +5,4 @@ dist/
 .venv/
 .cache/
 *.tmp
+coverage/
